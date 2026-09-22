@@ -1,0 +1,6 @@
+{
+  "name": "Fraud & Phishing Security Analyzer",
+  "description": "Advanced cybersecurity AI evaluating text and URLs for phishing, advance-fee fraud, job offer scams, and social engineering with structured threat reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
